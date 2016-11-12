@@ -4,10 +4,9 @@ Week 1:
     'Problem set 5: Mispellings': '/psets/mispellings'
     'Style guide': '/resources/style-guide'
 Week 2:
-    'Lecture 7 Mon': '/lectures/week-7-mon'
-    'Lecture 7 Wed': '/lectures/week-7-wed'
-    'Problem set 5: Mispellings': '/psets/mispellings'
-    'Style guide': '/resources/style-guide'
+    'Lecture 7': 'https://video.cs50.net/2016/fall/lectures/7'
+    'Lecture 8': 'https://video.cs50.net/2016/fall/lectures/8'
+    'Problem set 6: Sentimental': '/psets/sentimental'
 Week 3:
     'Lecture 8 Mon': '/lectures/week-8-mon'
     'Lecture 8 Wed': '/lectures/week-8-wed'

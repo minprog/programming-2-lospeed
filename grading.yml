@@ -9,6 +9,16 @@ grades:
             hacker: boolean
         calculation: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
         hide_calculated: true
+    sentimental:
+        type: float
+        subgrades:
+            scope: integer
+            correctness: integer
+            design: integer
+            style: integer
+            hacker: boolean
+        calculation: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
+        hide_calculated: true
     finance:
         type: float
         subgrades:
@@ -20,16 +30,6 @@ grades:
         calculation: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
         hide_calculated: true
     mashup:
-        type: float
-        subgrades:
-            scope: integer
-            correctness: integer
-            design: integer
-            style: integer
-            hacker: boolean
-        calculation: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
-        hide_calculated: true
-    python:
         type: float
         subgrades:
             scope: integer
@@ -60,9 +60,9 @@ psets:
     drop: scope
     grades:
         mispell: 1
+        sentimental: 1
         finance: 1
         mashup: 1
-        python: 1
 
 quiz:
     required: true
