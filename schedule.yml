@@ -1,33 +1,9 @@
-Week 1:
+Week 1-2:
     'Lecture 5 Wed': '/lectures/week-5-wed'
     'Lecture 6 Mon': '/lectures/week-6-mon'
     'Problem set 5: Mispellings': '/psets/mispellings'
     'Style guide': '/resources/style-guide'
-Week 2:
+Week 3-4:
     'Lecture 7': 'https://video.cs50.net/2016/fall/lectures/7'
     'Lecture 8': 'https://video.cs50.net/2016/fall/lectures/8'
     'Problem set 6: Sentimental': '/psets/sentimental'
-Week 3:
-    'Lecture 8 Mon': '/lectures/week-8-mon'
-    'Lecture 8 Wed': '/lectures/week-8-wed'
-    'Problem set 6: Finance': '/psets/finance'
-    'Style guide': '/resources/style-guide'
-Week 4:
-    'Lecture 9 Mon': '/lectures/week-9-mon'
-    'Lecture 9 Wed': '/lectures/week-9-wed'
-    'Problem set 6: Finance': '/psets/finance'
-    'Style guide': '/resources/style-guide'
-Week 5:
-    'Lecture 9 Mon': '/lectures/week-9-mon'
-    'Lecture 9 Wed': '/lectures/week-9-wed'
-    'Problem set 7: Mashup': '/psets/mashup'
-    'Style guide': '/resources/style-guide'
-Week 6:
-    'Lecture 10 Mon': '/lectures/week-10-mon'
-    'Lecture 10 Wed': '/lectures/week-10-wed'
-    'Problem set 7: Mashup': '/psets/mashup'
-    'Style guide': '/resources/style-guide'
-Week 7:
-    'Problem set 8: Python': '/psets/python'
-    'Python Style guide': '/resources/python-style-guide'
-    'Quiz preparations': '/resources/quiz'
