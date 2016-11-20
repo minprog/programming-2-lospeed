@@ -130,7 +130,7 @@ A schedule of problem sets, subject to change, appears below.
 | ------------- | ------------ | --------------- |  
 | Problem Set 5 | C            | 11-Nov at 23:59 |  
 | Problem Set 6 | Python       | 25-Nov at 23:59 |  
-| Problem Set 7 | Python + SQL | 9-Dec at 23:59  |  
+| Problem Set 7 | Python + SQL | 7-Dec at 23:59  |  
 | Problem Set 8 | Javascript   | 16-Dec at 23:59 |  
 
 In order to accommodate students with different backgrounds, some problem sets are released in two editions: a standard edition intended for most students and a "Hacker Edition" intended for some students. Both editions essentially cover the same material. But the Hacker Edition typically presents that material from a more technical angle and poses more sophisticated questions. Hacker Editions are graded separately from standard editions, but those students who submit the former do not receive any form of extra credit outright. When determining grades at term's end, however, we do bear in mind submissions of Hacker Editions.
