@@ -43,7 +43,6 @@ grades:
         type: pass
         subgrades:
             points: integer
-        calculation: (points >= 20)
     resit:
         type: pass
         subgrades:
