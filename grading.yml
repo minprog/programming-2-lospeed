@@ -58,7 +58,7 @@ calculation:
 
 psets:
     drop: scope
-    grades:
+    submits:
         mispell: 1
         sentimental: 1
         finance: 1
@@ -66,10 +66,10 @@ psets:
 
 quiz:
     required: true
-    grades:
+    submits:
         quiz: 1
 
 resit:
     required: true
-    grades:
+    submits:
         resit: 1
