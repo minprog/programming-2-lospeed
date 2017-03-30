@@ -126,12 +126,12 @@ Four problem sets are assigned during the course. Each is due by a pre-set deadl
 
 A schedule of problem sets, subject to change, appears below.
 
-| problem set   | language     | due                            |  
-| ------------- | ------------ | ------------------------------ |  
-| Problem Set 5 | C            | Wednesday, 12-Apr at 23:59       |  
-| Problem Set 6 | Python       | Friday, 21-Apr at 23:59        |  
-| Problem Set 7 | Python + SQL | Wednesday, 10-May at 23:59        |  
-| Problem Set 8 | Javascript   | Friday, 19-May at 23:59        |  
+| problem set   | language     | section                | due                        |  
+| ------------- | ------------ | ---------------------- | -------------------------- |  
+| Problem Set 5 | C            | Monday, 3-Apr 11:00    | Wednesday, 12-Apr at 23:59 |  
+| Problem Set 6 | Python       | Thursday, 13-Apr 11:00 | Friday, 21-Apr at 23:59    |  
+| Problem Set 7 | Python + SQL | Monday, 1-May 11:00    | Wednesday, 10-May at 23:59 |  
+| Problem Set 8 | Javascript   | Monday, 15-May 11:00   | Friday, 19-May at 23:59    |  
 
 In order to accommodate students with different backgrounds, some problem sets are released in two editions: a standard edition intended for most students and a "Hacker Edition" intended for some students. Both editions essentially cover the same material. But the Hacker Edition typically presents that material from a more technical angle and poses more sophisticated questions. Hacker Editions are graded separately from standard editions, but those students who submit the former do not receive any form of extra credit outright. When determining grades at term's end, however, we do bear in mind submissions of Hacker Editions.
 
