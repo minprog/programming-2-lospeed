@@ -137,9 +137,7 @@ Re-submission of problem sets is not possible until the following semester.
 
 ## Quiz
 
-The course has one 75-minute quiz. It is "closed-book,". You may utilize during the quiz a pen or pencil, and nothing else.
-
-One retake of the quiz is offered, but not neccessarily in time for follow-up courses.
+The course has one 75-minute quiz. It is "closed-book,". You may utilize during the quiz a pen or pencil, and nothing else. One retake of the quiz is offered, but not neccessarily in time for follow-up courses.
 
 ## Collaboration
 
