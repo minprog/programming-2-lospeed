@@ -133,10 +133,6 @@ A schedule of problem sets, subject to change, appears below.
 | Problem Set 7 | Python + SQL | Monday, 1-May 11:00    | Wednesday, 10-May at 23:59 |  
 | Problem Set 8 | Javascript   | Monday, 15-May 11:00   | Friday, 19-May at 23:59    |  
 
-In order to accommodate students with different backgrounds, some problem sets are released in two editions: a standard edition intended for most students and a "Hacker Edition" intended for some students. Both editions essentially cover the same material. But the Hacker Edition typically presents that material from a more technical angle and poses more sophisticated questions. Hacker Editions are graded separately from standard editions, but those students who submit the former do not receive any form of extra credit outright. When determining grades at term's end, however, we do bear in mind submissions of Hacker Editions.
-
-To be clear, we encourage most students (including aspiring computer scientists) to tackle the standard editions. However, you may choose, week to week, which edition to submit. You may not submit both or some amalgam of the two.
-
 Re-submission of problem sets is not possible until the following semester.
 
 ## Quiz
